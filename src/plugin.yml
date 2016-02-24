@@ -2,9 +2,8 @@ name: MinecraftPlugin
 main: server.TaahThePhoenix.MinecraftPlugin.MinecraftPlugin
 version: 1.0
 description: Test plugin
-depend: [Spigot 1.8.8]
 authors: [TaahThePhoenix]
 commands:
    mcp:
+      description: a test plugin
       usage: /<command>
-      description: Test command
