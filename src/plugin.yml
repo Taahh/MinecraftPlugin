@@ -1,0 +1,10 @@
+name: MinecraftPlugin
+main: server.TaahThePhoenix.MinecraftPlugin.MinecraftPlugin
+version: 1.0
+description: Test plugin
+depend: [Spigot 1.8.8]
+authors: [TaahThePhoenix]
+commands:
+    mcp:
+        description: Info about the plugin
+        usage: /<command>
