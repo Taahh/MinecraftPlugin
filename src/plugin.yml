@@ -5,6 +5,6 @@ description: Test plugin
 depend: [Spigot 1.8.8]
 authors: [TaahThePhoenix]
 commands:
-    mcp:
-        description: Info about the plugin
-        usage: /<command>
+   mcp:
+      usage: /<command>
+      description: Test command
